@@ -1,3 +1,3 @@
 package com.junga.network
 
-class Repository : ArrayList<GithubUser>()
+class Repository : ArrayList<RepositoryItem>()

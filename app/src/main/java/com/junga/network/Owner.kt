@@ -1,6 +1,6 @@
 package com.junga.network
 
-data class GithubUser(
+data class Owner(
     val avatar_url: String,
     val events_url: String,
     val followers_url: String,
