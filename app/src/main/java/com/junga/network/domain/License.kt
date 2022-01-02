@@ -1,4 +1,4 @@
-package com.junga.network
+package com.junga.network.domain
 
 data class License(
     val key: String,

@@ -1,4 +1,4 @@
-package com.junga.network
+package com.junga.network.domain
 
 data class RepositoryItem(
     val allow_forking: Boolean,
